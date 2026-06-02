@@ -8,6 +8,11 @@
 - Show monthly summary
 - Optional: budget limit per category
 
+### WIP
+
+- Filtering
+- Add timestamps on modals (totally forgot that)
+
 ### Endpoints
 ```http
 GET    /transactions/
